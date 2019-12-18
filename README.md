@@ -1,2 +1,2 @@
 # Simon-Dice
-This is a game made in Javascript to memorize secuences.
+This is a game made in Javascript. Player needs to memorize secuences.
